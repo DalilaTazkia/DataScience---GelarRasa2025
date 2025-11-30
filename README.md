@@ -1,4 +1,4 @@
-🏆 **Data Science Competition 2025 – Tim ThreeVolution**
+**Data Science Competition 2025 – Tim ThreeVolution**
 
 **Peringkat 7 dari 70 Tim**
 Diselenggarakan oleh **UPN Veteran Jawa Timur (Online)**
@@ -13,7 +13,7 @@ Notebook ini memuat seluruh alur analisis data dan permodelan yang digunakan dal
 
 ---
 
-# 📂 **Struktur Project**
+#**Struktur Project**
 
 ```
 DSC2025_ThreeVolution.ipynb   → Notebook utama
@@ -25,7 +25,7 @@ reviews.csv                  → Dataset ulasan
 
 ---
 
-# 🎯 **Tujuan Analisis**
+#**Tujuan Analisis**
 
 Notebook ini dikembangkan untuk:
 
@@ -42,7 +42,7 @@ Notebook ini dikembangkan untuk:
 
 ---
 
-# 🧹 **Tahap 1 — Data Preprocessing**
+#**Tahap 1 — Data Preprocessing**
 
 Notebook memuat preprocessing lengkap:
 
@@ -76,7 +76,7 @@ Notebook memuat preprocessing lengkap:
 
 ---
 
-# 📊 **Exploratory Data Analysis (EDA)**
+#**Exploratory Data Analysis (EDA)**
 
 Analisis meliputi:
 
@@ -92,7 +92,7 @@ Analisis meliputi:
 
 ---
 
-# 🔧 **Tahap 2 — Feature Engineering**
+#**Tahap 2 — Feature Engineering**
 
 Dilakukan beberapa teknik:
 
@@ -155,7 +155,7 @@ Notebook menghasilkan:
 
 ---
 
-# 🧪 **Evaluasi Model**
+#**Evaluasi Model**
 
 Notebook menampilkan tabel akurasi berisi:
 
@@ -170,7 +170,7 @@ Serta visualisasi:
 
 ---
 
-# 🚀 **Cara Menjalankan**
+#**Cara Menjalankan**
 
 ## Prasyarat
 
@@ -195,6 +195,6 @@ jupyter notebook
 
 ---
 
-# 📜 **Lisensi**
+#**Lisensi**
 
 Project digunakan untuk keperluan lomba dan portofolio edukasi tim ThreeVolution.
