@@ -1,4 +1,4 @@
-  **Data Science Competition 2025 – Tim ThreeVolution**
+#   **Data Science Competition 2025 – Tim ThreeVolution**
 
 **Peringkat 7 dari 70 Tim**
 Diselenggarakan oleh **UPN Veteran Jawa Timur (Online)**
@@ -195,6 +195,6 @@ jupyter notebook
 
 ---
 
-#**Lisensi**
+#  **Lisensi**
 
 Project digunakan untuk keperluan lomba dan portofolio edukasi tim ThreeVolution.
