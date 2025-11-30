@@ -155,7 +155,7 @@ Notebook menghasilkan:
 
 ---
 
-#**Evaluasi Model**
+#   **Evaluasi Model**
 
 Notebook menampilkan tabel akurasi berisi:
 
@@ -170,7 +170,7 @@ Serta visualisasi:
 
 ---
 
-#**Cara Menjalankan**
+#   **Cara Menjalankan**
 
 ## Prasyarat
 
