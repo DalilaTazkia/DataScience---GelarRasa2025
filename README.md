@@ -3,12 +3,6 @@
 **Peringkat 7 dari 70 Tim**
 Diselenggarakan oleh **UPN Veteran Jawa Timur (Online)**
 
-Anggota tim:
-
-* **Dalila Tazkia**
-* **Jihan Aqilah**
-* **Asri Sabilla Putri**
-
 Notebook ini memuat seluruh alur analisis data dan permodelan yang digunakan dalam kompetisi.
 
 ---
@@ -198,3 +192,11 @@ jupyter notebook
 #  **Lisensi**
 
 Project digunakan untuk keperluan lomba dan portofolio edukasi tim ThreeVolution.
+
+
+## Anggota tim:
+
+* **Dalila Tazkia**
+* **Jihan Aqilah**
+* **Asri Sabilla Putri**
+
